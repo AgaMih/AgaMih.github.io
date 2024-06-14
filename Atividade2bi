@@ -1,0 +1,11 @@
+1. 
+   A diferença entre as tags `<h2>` e `<h4>` está no nível de hierarquia que cada uma representa para os títulos. A tag `<h2>` é usada para criar um título de segundo nível, enquanto a tag `<h4>` é para um título de quarto nível, ou seja, menores.
+
+2. 
+   Sim, o código apresenta um erro de estrutura. O correto seria:
+   ```html
+   <p style="text-align: center;">Texto</p>
+   ```
+   Dessa forma, utilizamos CSS para centralizar o texto dentro da tag `<p>`.
+
+3. é utilizada para definir um parágrafo de texto em HTML.
